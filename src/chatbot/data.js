@@ -4,8 +4,8 @@ export const data = [
       answer: "Bonjour",
     },
     {
-      question: "bonjour",
-      answer: "Salutations !\r\n Moi c'est Prowd 😃, le coach Développement Durable 🌏 digital et ludique !",
+      question: "bonjour !",
+      answer: "Salutations !\r\n Moi c'est Prowd 😃, le coach Développement Durable 🌏 digital et ludique !"
     },
     {
       question: "salut prowdbot",

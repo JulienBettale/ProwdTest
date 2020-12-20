@@ -30,7 +30,6 @@ const styles = StyleSheet.create({
     typeMsgContainer:{
         flexDirection:'row',
         marginHorizontal: 5,
-        bottom: 5
     },
     typeMsgBox: {
         borderWidth: 0.8,
